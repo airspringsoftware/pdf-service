@@ -36,7 +36,7 @@ https://services.airspringsoftware.com/forms/api/fill.json
 }
 ``` 
 To get the filled pdf file 
-https://services.airspringsoftware.com//output/pdf/fw4-4439cdd7001b895fff43c52f-5a15fd9ebfb28b2e33210e6b.pdf
+https://services.airspringsoftware.com/output/pdf/fw4-4439cdd7001b895fff43c52f-5a15fd9ebfb28b2e33210e6b.pdf
 
 ## /extract
 
